@@ -1,0 +1,6 @@
+2012510012,1,Beyza,Basaran,Female,05324561212,10.12.1999,beyza.basaran@gmail.com
+2010510042,1,Seyma Nur,Erkul,Female,05321425212,14.10.2000,bseyma.erkul@gmail.com
+2142510055,1,Bilbo,Baggins,Male,05444561212,10.12.1000,bilbo.baggins@gmail.com
+2012510012,1,Beyza,Basaran,Female,05324561212,10.12.1999,beyza.basaran@gmail.com
+2010510042,1,Seyma Nur,Erkul,Female,05321425212,14.10.2000,bseyma.erkul@gmail.com
+2142510055,1,Bilbo,Baggins,Male,05444561212,10.12.1000,bilbo.baggins@gmail.com

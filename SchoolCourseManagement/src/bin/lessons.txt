@@ -1,0 +1,8 @@
+2010510042,Seyma Nur,Erkul,Mathematic 5 credits ,English 4 credits ,Turkish 4 credits ,History 3 credits ,Geography 3 credits ,Computer Science 3 credits ,Saturday,Moral Education 1 credits ,Sunday
+7777777777,aslı,dfghj,Mathematic 5 credits ,English 4 credits ,Turkish 4 credits ,History 3 credits ,Geography 3 credits ,Computer Science 3 credits ,Saturday,Moral Education 1 credits ,Sunday
+2010510042,Seyma Nur,Erkul,Mathematic 5 credits ,English 4 credits ,Turkish 4 credits ,History 3 credits ,Geography 3 credits ,Computer Science 3 credits ,Saturday,Moral Education 1 credits ,Sunday
+2010510042,Seyma Nur,Erkul,Mathematic 5 credits ,English 4 credits ,Turkish 4 credits ,History 3 credits ,Geography 3 credits ,Music 2 credits ,Saturday,Physical Education 2 credits ,Saturday
+2010510042,Seyma Nur,Erkul,Mathematic 5 credits ,English 4 credits ,Turkish 4 credits ,History 3 credits ,Geography 3 credits ,Moral Education 1 credits ,Sunday,Computer Science 3 credits ,Saturday
+2010510042,Seyma Nur,Erkul,Mathematic 5 credits ,English 4 credits ,Turkish 4 credits ,History 3 credits ,Geography 3 credits ,Moral Education 1 credits ,Saturday,Computer Science 3 credits ,Saturday
+2010510042,Seyma Nur,Erkul,Mathematic 5 credits ,English 4 credits ,Turkish 4 credits ,History 3 credits ,Geography 3 credits ,Moral Education 1 credits ,Saturday,Computer Science 3 credits ,Saturday
+2010510042,Seyma Nur,Erkul,Mathematic 5 credits ,English 4 credits ,Turkish 4 credits ,History 3 credits ,Geography 3 credits ,Computer Science 3 credits ,Saturday,Moral Education 1 credits ,Saturday

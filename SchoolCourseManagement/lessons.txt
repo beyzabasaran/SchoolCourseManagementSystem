@@ -1,0 +1,15 @@
+2018510086,AAAAAAA,VVVVVVV,Mathematic 5 credits ,English 4 credits ,Turkish 4 credits ,History 3 credits ,Geography 3 credits ,Computer Science 3 credits ,Moral Education 1 credits 
+2018510086,AAAAAAA,VVVVVVV,Mathematic 5 credits ,English 4 credits ,Turkish 4 credits ,History 3 credits ,Geography 3 credits ,German 3 credits ,Moral Education 1 credits 
+2018510086,AAAAAAA,VVVVVVV,Mathematic 5 credits ,English 4 credits ,Turkish 4 credits ,History 3 credits ,Geography 3 credits ,Moral Education 1 credits ,Computer Science 3 credits 
+1111111111,Zeynep,wadesfgthjk,Mathematic 5 credits ,English 4 credits ,Turkish 4 credits ,History 3 credits ,Geography 3 credits ,Computer Science 3 credits ,Moral Education 1 credits 
+2018510028,Seyma,bjkl,Mathematic 5 credits ,English 4 credits ,Turkish 4 credits ,History 3 credits ,Geography 3 credits ,Computer Science 3 credits ,Moral Education 1 credits 
+2019510021,Beyza,sdfghjkj,Mathematic 5 credits ,English 4 credits ,Turkish 4 credits ,History 3 credits ,Geography 3 credits ,Computer Science 3 credits ,Moral Education 1 credits 
+2013459911,OKUOKUOKUOKU,COMCOMCOM,Mathematic 5 credits ,English 4 credits ,Turkish 4 credits ,History 3 credits ,Geography 3 credits ,Computer Science 3 credits ,Moral Education 1 credits 
+2018510086,AAAAAAA,VVVVVVV,Mathematic 5 credits ,English 4 credits ,Turkish 4 credits ,History 3 credits ,Geography 3 credits ,Physical Education 2 credits ,Music 2 credits 
+2018510086,AAAAAAA,VVVVVVV,Mathematic 5 credits ,English 4 credits ,Turkish 4 credits ,History 3 credits ,Geography 3 credits ,Music 2 credits ,Physical Education 2 credits 
+2018510086,AAAAAAA,VVVVVVV,Mathematic 5 credits ,English 4 credits ,Turkish 4 credits ,History 3 credits ,Geography 3 credits ,Computer Science 3 credits ,Moral Education 1 credits 
+2018510086,AAAAAAA,VVVVVVV,Mathematic 5 credits ,English 4 credits ,Turkish 4 credits ,History 3 credits ,Geography 3 credits ,Music 2 credits ,Physical Education 2 credits 
+2010510042,Seyma Nur,Erkul,Mathematic 5 credits ,English 4 credits ,Turkish 4 credits ,History 3 credits ,Geography 3 credits 
+2010510042,Seyma Nur,Erkul,Mathematic 5 credits ,English 4 credits ,Turkish 4 credits ,History 3 credits ,Geography 3 credits ,Moral Education 1 credits ,Computer Science 3 credits 
+2010510042,Seyma Nur,Erkul,Mathematic 5 credits ,English 4 credits ,Turkish 4 credits ,History 3 credits ,Geography 3 credits ,Computer Science 3 credits ,Moral Education 1 credits 
+2010510042,Seyma Nur,Erkul,Mathematic 5 credits ,English 4 credits ,Turkish 4 credits ,History 3 credits ,Geography 3 credits ,Computer Science 3 credits ,Saturday,Moral Education 1 credits 

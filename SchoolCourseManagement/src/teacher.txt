@@ -1,0 +1,5 @@
+clara,smith,English
+harry,ruth,Turkish
+damian,bold,Geography
+sam,santiago,Mathematic
+ali,cuvitoglu,algorıthm

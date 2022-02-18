@@ -1,0 +1,57 @@
+				else if(rbtnTakeExam.isSelected()) 
+				{
+					String filename = "C:\\Users\\DELL\\eclipse-workspace\\schoolCourse\\SchoolCourseManagement\\src\\examQuota.txt";
+					File textFile = new File(filename);
+					Scanner in;
+					int TESTCAPACITY=0;
+					try {
+						in = new Scanner(textFile);
+						 TESTCAPACITY = in.nextInt();
+						 System.out.println("Read value: " + TESTCAPACITY);
+					} catch (FileNotFoundException e) {
+						// TODO Auto-generated catch block
+						e.printStackTrace();
+					}
+					
+					       
+					if(TESTCAPACITY!=0)
+					{
+						
+						TESTCAPACITY--;
+						String message = "You have successfully enrolled to the test\nRemaining test capacity: " + TESTCAPACITY+"/1111";
+						JOptionPane.showMessageDialog(mainFrame, message ,"Message!",JOptionPane.INFORMATION_MESSAGE);
+						System.out.println(TESTCAPACITY);
+						
+					}
+					else 
+					{
+						JOptionPane.showMessageDialog(mainFrame, "Test capacity is full!\nYou can not take test." ,"Warning!",JOptionPane.WARNING_MESSAGE);
+					}
+					
+					File file = new File("C:\\Users\\DELL\\eclipse-workspace\\schoolCourse\\SchoolCourseManagement\\src\\examQuota.txt"); 
+					FileWriter fileWriter;
+					try {
+						fileWriter = new FileWriter(file);
+					
+					BufferedWriter bWriter = new BufferedWriter(fileWriter); 
+					
+					bWriter.write(Integer.toString(TESTCAPACITY)); 
+				
+					bWriter.close(); 
+					} catch (IOException e1) {
+						// TODO Auto-generated catch block
+						e1.printStackTrace();
+					} 
+					if (!file.exists()) { try {
+						file.createNewFile();
+					
+					
+					
+					
+					
+					} catch (IOException e) {
+						// TODO Auto-generated catch block
+						e.printStackTrace();
+					} }
+					System.out.println(TESTCAPACITY);
+				}

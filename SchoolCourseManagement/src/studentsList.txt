@@ -1,0 +1,15 @@
+2012510012,1,Beyza,Basaran,Female,05324561212,10/12/2008,beyza.basaran@gmail.com
+2010510042,1,Seyma Nur,Erkul,Female,05321425212,14/10/2015,bseyma.erkul@gmail.com
+2142510055,1,Bilbo,Baggins,Male,05444561212,10/12/2011,bilbo.baggins@gmail.com
+2018510086,4,jerry,seinfeld,male,05445876600,01/08/2006,jerrys@gmail.com
+2017510477,2,george,costanza,male,05475871221,10/11/2008,georges@gmail.com
+2010510014,3,pamela,beesly,female,05365871271,05/21/2009,pammy@gmail.com
+2019510095,1,jim,morrison,male,05545876678,11/09/2010,jimmy@gmail.com
+2014510447,2,andrew,byrne,male,05478871221,06/09/2007,andrews@gmail.com
+2016510016,3,yoko,ono,female,05364211271,06/21/2010,yokono@gmail.com
+2012510478,3,kramer,morrisey,male,05875871221,11/11/2009,kramer@gmail.com
+2014510023,3,winona,ryder,female,05325871276,04/01/2008,winona@gmail.com
+2019510095,1,jesse,pinkman,male,05345875534,12/08/2011,jess@gmail.com
+2016510898,2,hozier,byrne,male,05424471221,07/01/2015,byrne@gmail.com7777777777,6,aslı,dfghj,fg,23232323232,10/10/2010,wee@
+4444444444,6,eree,dfgh,fghf,45454545454,10/10/2014,grwer@
+2013097432,6,Clara,Luciani,female,03336543542,10/10/2015,claraLuciani@gmail.com
